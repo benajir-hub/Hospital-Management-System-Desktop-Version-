@@ -1,2 +1,2 @@
-# AMD2
+# Advanced Database Management System
  project
